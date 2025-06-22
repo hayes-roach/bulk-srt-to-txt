@@ -1,7 +1,14 @@
 # bulk-srt-to-txt
+
 Convert multiple subtitle files (.srt) from a directory to a single consolidated text file.
 
-## Usage
+## Web Interface
+
+Use the online converter at: **https://hayes-roach.github.io/bulk-srt-to-txt/**
+
+No installation required - just drag and drop your SRT files in the browser.
+
+## Command Line Usage
 
 ```bash
 python srt_to_txt.py input_directory output.txt
